@@ -1,0 +1,5 @@
+C:\Users\IMac12\source\repos\MathProv\obj\Release\net5.0\MathProv.csproj.AssemblyReference.cache
+C:\Users\IMac12\source\repos\MathProv\obj\Release\net5.0\MathProv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMac12\source\repos\MathProv\obj\Release\net5.0\MathProv.AssemblyInfoInputs.cache
+C:\Users\IMac12\source\repos\MathProv\obj\Release\net5.0\MathProv.AssemblyInfo.cs
+C:\Users\IMac12\source\repos\MathProv\obj\Release\net5.0\MathProv.csproj.CoreCompileInputs.cache

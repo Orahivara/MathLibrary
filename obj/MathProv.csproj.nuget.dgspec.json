@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IMac12\\source\\repos\\MathProv\\MathProv.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IMac12\\source\\repos\\MathLibrary\\MathLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IMac12\\source\\repos\\MathLibrary\\MathLibrary.csproj",
+        "projectName": "MathLibrary",
+        "projectPath": "C:\\Users\\IMac12\\source\\repos\\MathLibrary\\MathLibrary.csproj"
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    },
+    "C:\\Users\\IMac12\\source\\repos\\MathProv\\MathProv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IMac12\\source\\repos\\MathProv\\MathProv.csproj",
+        "projectName": "MathProv",
+        "projectPath": "C:\\Users\\IMac12\\source\\repos\\MathProv\\MathProv.csproj",
+        "packagesPath": "C:\\Users\\IMac12\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMac12\\source\\repos\\MathProv\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IMac12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\IMac12\\source\\repos\\MathLibrary\\MathLibrary.csproj": {
+                "projectPath": "C:\\Users\\IMac12\\source\\repos\\MathLibrary\\MathLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
